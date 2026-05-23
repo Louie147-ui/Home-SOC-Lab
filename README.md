@@ -45,16 +45,16 @@ Event ID 5 logs process termination activity.
 ## Screenshots
 
 ### Sysmon Installed
-![](Images/sysmon-installed.png)
+![](Images./sysmon-installed.png)
 
 ### Event Viewer Sysmon Logs
-![](Images/eventviewer-sysmon.png)
+![](Images./eventviewer-sysmon.png)
 
 ### Process Creation Event
-![](Images/eventid1-process.png)
+![](Images./eventid1-process.png)
 
 ### Command Activity
-![](Images/command-activity.png)
+![](Images./command-activity.png)
 
 ## Skills Demonstrated
 - Windows administration
